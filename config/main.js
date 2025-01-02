@@ -1,4 +1,4 @@
-// This changes the title of your site
+var sitename = "welovesean";
 
 var sitename = "native."; // Change this to change the name of your website.
 var subtext = "v1.2"; // set the subtext
