@@ -1,6 +1,6 @@
-var sitename = "welovesean";
+var sitename = "ilovesean";
 
-var sitename = "native."; // Change this to change the name of your website.
+var sitename = "welovesean."; // Change this to change the name of your website.
 var subtext = "v1.2"; // set the subtext
 
 // more settings in main.css
